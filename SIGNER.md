@@ -1,6 +1,6 @@
 # Signer
 
-This guide describes how to use the validation UI from the [task-signing-tool](https://github.com/base/task-signing-tool) to sign tasks in this repository. Your task’s `README.md` may add steps (which task to pick, rollback flows, multiple parts, etc.)—always follow those instructions first.
+This guide describes how to use the validation UI from the [task-signing-tool](https://github.com/base/task-signing-tool) to sign tasks in this repository. Your task’s `README.md` may add steps (which task to pick, rollback flows, multiple parts, etc.)-always follow those instructions first.
 
 ## Prerequisites
 
